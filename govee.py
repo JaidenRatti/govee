@@ -34,7 +34,3 @@ def control_govee_lights(command):
     else:
         print("didnt work")
 
-
-#get status of lights
-#do it based on webcam skin colour 
-#do it based on whether or not someone is stranger or not (turn red if stranger, green if me) w reference photo
