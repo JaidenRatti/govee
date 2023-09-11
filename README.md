@@ -5,5 +5,3 @@
 price.py -> enter crypto or stock ticker, lights will change every minute (green if price is up, red if price is down)
 
 voice.py -> voice to change colours
-
-might add webcam stuff soon
